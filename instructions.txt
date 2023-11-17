@@ -1,0 +1,12 @@
+Instructions to successfully run the US Crime Data Jupyter Notebook
+
+1) Install all required dependencies
+   Run the command:
+   pip -r install requirements.txt
+
+2) Run jupyter notebook
+   Run the command:
+   jupyter notebook
+
+3) Do not delete the PNG or CSV file that comes with the zip file
+   The Jupyter Notebook created needs them to run
