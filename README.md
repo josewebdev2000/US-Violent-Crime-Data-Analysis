@@ -59,3 +59,11 @@
     <p>The highest crime rates are found around the 70's and the 80's</p>
     <p>Even though crime rates have diminished ever since the 90's. They are still not as low as they were in the 60's.</p>
 </div>
+
+
+## Copyright
+<div>
+    <blockquote>
+        <a href="https://github.com/josewebdev2000">&copy; josewebdev2000</a> 2023
+    </blockquote>
+</div>
