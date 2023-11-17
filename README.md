@@ -1,4 +1,4 @@
-# US Florida Violent Crime Infographic
+# US Violent Crime Infographic
 ### Data Analysis and Visualization of Violent Crime in Florida 1960-2019
 
 <div>
