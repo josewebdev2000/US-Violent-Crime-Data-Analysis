@@ -4,7 +4,7 @@
 <div>
     <img src="car_police_light.png" alt="Police Car Lights">
     <h3>Overview</h3>
-    <p>This dynamic infographic allows users to review the tendencies on crime in the state of Florida.</p>
+    <p>This dynamic infographic allows users to review the tendencies on crime in the United States Of America.</p>
     <p>The data uses the rate extracted from reported offenses per 100,000 people.</p>
     <p>The following are the types of crime covered</p>
     <ul>
